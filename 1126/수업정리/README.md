@@ -18,3 +18,4 @@ lang1과 lang2 리스트가 있을 때 lang1과 lang2의 원소를 모두 갖고
 >> #딕셔너리 key:value
 >> #추가 -> dic 이름 ["key"]
 >> #딕셔너리 keys()
+#함수->지역변수 (그 안에서만 live)
